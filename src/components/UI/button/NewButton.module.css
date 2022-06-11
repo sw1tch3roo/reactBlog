@@ -1,0 +1,15 @@
+.newBtn {
+  font-family: "Courier New", Courier, monospace;
+  padding: 5px 15px;
+  color: gray;
+  font-size: 14px;
+  background: whitesmoke;
+  border: 1px solid gray;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.page {
+  padding: 10px;
+  cursor: pointer;
+}

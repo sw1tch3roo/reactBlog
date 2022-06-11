@@ -1,0 +1,7 @@
+.newSelect {
+  font-family: "Courier New", Courier, monospace;
+  padding: 5px 15px;
+  margin: 5px 0;
+  border: 2px solid gainsboro;
+  border-radius: 6px;
+}
